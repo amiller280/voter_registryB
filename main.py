@@ -113,7 +113,7 @@ print(allowed)
 if allowed == True:
     master = tk.Tk()
     master.geometry('800x600')
-    master.title('Test')
+    master.title('Voter Registry')
     name = '                                            '
     l1 = tk.Label(master, text='')
     l2 = tk.Label(master, text='')
